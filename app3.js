@@ -1,0 +1,1 @@
+let another = "Samsung Laptop";
